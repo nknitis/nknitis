@@ -1,4 +1,5 @@
 # Hi there, I'm Nitish! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=nknitis&color=blue)
 ### 👨‍💻 Frontend Developer | NIT Delhi Grad
 
 I build interactive websites and love solving problems in C++ and JavaScript.
