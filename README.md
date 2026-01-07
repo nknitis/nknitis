@@ -19,13 +19,11 @@ I build interactive websites and love solving problems in C++ and JavaScript.
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nknitis&show_icons=true&theme=radical" alt="Nitish's Stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknitis&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Nitish's Stats](https://github-readme-stats.vercel.app/api?username=nknitis&show_icons=true&theme=radical)
+
+### 🛠️ Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nknitis&layout=compact&theme=radical)
 
 ---
 
