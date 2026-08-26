@@ -90,7 +90,7 @@ I enjoy building interactive applications, solving challenging problems, and exp
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nknitis&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nknitis&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contributions"/>
 
 </div>
 
@@ -130,13 +130,13 @@ I enjoy building interactive applications, solving challenging problems, and exp
 
 ---
 
-##  🔭 Currently
+## 🔭 Currently
 
 <div align="center">
 
-**Building Full-Stack Applications**
-**Exploring AI & LLM Applications**
-**Solving DSA in C++**
+**Building Full-Stack Applications**  
+**Exploring AI & LLM Applications**  
+**Solving DSA in C++**  
 **Preparing for Software Engineering Opportunities**
 
 </div>
