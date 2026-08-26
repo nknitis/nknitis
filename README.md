@@ -130,7 +130,7 @@ I enjoy building interactive applications, solving challenging problems, and exp
 
 ---
 
-## 🔭 Currently
+##  🔭 Currently
 
 <div align="center">
 
