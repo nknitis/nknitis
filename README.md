@@ -72,30 +72,6 @@ I enjoy building interactive applications, solving challenging problems, and exp
 
 ---
 
-## 🐙 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nknitis&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nknitis&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nknitis&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contributions"/>
-
-</div>
-
----
-
 ## 💻 LeetCode Journey
 
 <div align="center">
